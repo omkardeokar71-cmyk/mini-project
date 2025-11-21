@@ -1,4 +1,3 @@
-cat > Threat-Modeling.md <<'MD'
 # Threat Modeling — OWASP Juice Shop (v19.1.1) — STRIDE + PASTA
 
 ## 1. App Overview
@@ -73,3 +72,4 @@ cat > Threat-Modeling.md <<'MD'
 Include lab setup screenshot: `/mnt/data/setup.png`
 
 MD
+
